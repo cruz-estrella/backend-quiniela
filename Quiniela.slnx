@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Data/Data.csproj" />
+  <Project Path="../Models/Models.csproj" />
+  <Project Path="../Services/Services.csproj" />
+  <Project Path="../UseCases/UseCases.csproj" />
+  <Project Path="Quiniela.csproj" />
+</Solution>
